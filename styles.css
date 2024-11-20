@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #092635;
+    height: 450vh;
+}
+.interface h1{
+    color: #ffffff;
+    text-align: center;
+    margin-top: 40px;
+    font-size: 4em;
+    font-family: sans-serif;
+}
+.interface img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+    width: 900px;
+    height: 400px;
+    border-radius: 12px;
+}
+.interface h2{
+    color: #d7e9bb;
+    text-align: center;
+    margin-top: 40px;
+    font-size: 2em;
+    font-family: sans-serif;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.verde{
+    height: 120vh;
+    margin-top: 10vh;
+    background-color: #5C8374;
+}
+.verde2{
+    height: 121vh;
+    background-color: #5C8374;
+    margin-top: 120vh;   
+}
