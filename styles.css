@@ -76,25 +76,67 @@ ul li{
     padding-top: 100px;
     font-size: 40px;
 }
-@media(max-width 1000px){
-ul li{
-       margint-left: 5px;
-       margin-right: 0px;
-   }
-.interface h1{
-        margint-left: 5px;
+@media(max-width: 1000px){
+    ul li{
+           margin-left: 5px;
+           margin-right: 0px;
+       }
+    .interface h1{
+            margin-left: 5px;
+            margin-right: 0px;
+       }
+    h2, p{
+        margin-left: 5px;
         margin-right: 0px;
-   }
-h2, p{
-    margin-left: 5px;
-    margin-right: 0px;
-}
-.verde h1{
-    margin-left: 5px;
-    margin-right: 0px;
     }
-.verde img{
-    width: 500px;
-    heigth: 200px;
-}
-}
+    .verde h1{
+        margin-left: 5px;
+        margin-right: 0px;
+        }
+    .verde img{
+        width: 500px;
+        height: 200px;
+    }
+    }@media(max-width: 1000px){
+    ul li{
+           margin-left: 5px;
+           margin-right: 0px;
+       }
+    .interface h1{
+            margin-left: 5px;
+            margin-right: 0px;
+       }
+    h2, p{
+        margin-left: 5px;
+        margin-right: 0px;
+    }
+    .verde h1{
+        margin-left: 5px;
+        margin-right: 0px;
+        }
+    .verde img{
+        width: 500px;
+        height: 200px;
+    }
+    }@media(max-width: 1000px){
+    ul li{
+           margin-left: 5px;
+           margin-right: 0px;
+       }
+    .interface h1{
+            margin-left: 5px;
+            margin-right: 0px;
+       }
+    h2, p{
+        margin-left: 5px;
+        margin-right: 0px;
+    }
+    .verde h1{
+        margin-left: 5px;
+        margin-right: 0px;
+        }
+    .verde img{
+        width: 500px;
+        height: 200px;
+    }
+    }
