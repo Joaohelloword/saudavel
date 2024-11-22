@@ -77,10 +77,6 @@ ul li{
     font-size: 40px;
 }
 @media(max-width: 1000px){
-    body{
-        display: inline-block;
-        position: fixed;
-    }
     ul li{
            margin-left: 5px;
            margin-right: 0px;
