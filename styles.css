@@ -78,7 +78,7 @@ ul li{
 }
 @media(max-width: 1000px){
     body{
-        width: 100vh;
+        display: inline-block;
     }
     ul li{
            margin-left: 5px;
@@ -101,4 +101,5 @@ ul li{
         width: 200px;
         height: 100px;
     }
+    
         }
