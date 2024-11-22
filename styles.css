@@ -79,15 +79,15 @@ ul li{
 @media(max-width 1000px){
    ul li{
        margint-left: 20px;
-       margin-right: 10px;
+       margin-right: 0px;
    }
 .interface h1{
         margint-left: 20px;
-        margin-right: 10px;
+        margin-right: 0px;
    }
     h2, p{
     margin-left: 10px;
-    margin-right: 10px;
+    margin-right: 0px;
 }
     .verde h1{
     margin-left: 10px;
