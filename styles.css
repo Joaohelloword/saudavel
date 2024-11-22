@@ -79,7 +79,7 @@ ul li{
 @media(max-width: 1000px){
     body{
         display: inline-block;
-        position: absolute;
+        position: fixed;
     }
     ul li{
            margin-left: 5px;
