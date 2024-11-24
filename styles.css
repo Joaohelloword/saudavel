@@ -77,26 +77,5 @@ ul li{
     font-size: 40px;
 }
 @media(max-width: 1000px){
-    ul li{
-           margin-left: 5px;
-           margin-right: 0px;
-            padding-top: 20px;
-       }
-    .interface h1{
-            margin-left: 5px;
-            margin-right: 0px;
-       }
-    h2, p{
-        margin-left: 5px;
-        margin-right: 0px;
-    }
-    .verde h1{
-        margin-left: 5px;
-        margin-right: 0px;
-        }
-    img{
-        width: 300px;
-        height: 100px;
-    }
-    
+
         }
