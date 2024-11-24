@@ -81,27 +81,34 @@ ul li{
     margin-left: 160px;
 }
 @media(max-width: 1000px){
-    body{
-        display: inline-block;
-    }
-    ul li{
+ul li{
            margin-left: 5px;
            margin-right: 0px;
-       }
-    .interface h1{
+}
+.verde{
+   height: 350vh; 
+}
+.interface h1{
             margin-left: 5px;
             margin-right: 0px;
-       }
-    h2, p{
+}
+h2, p{
+    font-size: 15px;
+    font-weight: 700;
+        margin-left: 0px;
+        margin-right: 0px;
+}
+.verde h1{
         margin-left: 5px;
         margin-right: 0px;
-    }
-    .verde h1{
-        margin-left: 5px;
-        margin-right: 0px;
-        }
-    .interface img{
-        width: 470px;
-        height: 200px;
-    }
-    }
+}
+.interface img{
+        width: 400px;
+}
+.interface h2{
+    margin-left: 0;
+}
+.verde2 h2{
+    margin-left: 0;
+}
+}
