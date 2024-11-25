@@ -83,32 +83,38 @@ ul li{
 @media(max-width: 1000px){
 ul li{
            margin-left: 5px;
-           margin-right: 0px;
+           margin-right: 2px;
 }
 .verde{
    height: 450vh; 
 }
 .interface h1{
             margin-left: 5px;
-            margin-right: 0px;
+            margin-right: 2px;
 }
 h2, p{
     font-size: 15px;
     font-weight: 700;
-        margin-left: 0px;
-        margin-right: 0px;
+        margin-left: 2px;
+        margin-right: 2px;
 }
 .verde h1{
         margin-left: 5px;
-        margin-right: 0px;
+        margin-right: 2px;
 }
 .interface img{
         width: 400px;
 }
 .interface h2{
-    margin-left: 0;
+    margin-left: 2px;
 }
 .verde2 h2{
-    margin-left: 0;
+    margin-left: 2px;
 }
+    .verde{
+        width: 100%;
+    }
+    .verde2{
+        width: 100%;
+    }
 }
