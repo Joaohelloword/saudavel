@@ -83,13 +83,13 @@ ul li{
     margin-left: 160px;
     color: #5c605d;
 }
-body{
-margin: 0;
-padding: 0;
-background-color: burlywood;
-}
-h1, p{
+.card h1, p{
     color: #ffffff;
+}
+@property --angle{
+    syntax: "<angle>";
+    initial-value: 0deg;
+    inherits: false;
 }
 .card{
     margin: 0, auto;
@@ -99,11 +99,6 @@ h1, p{
     text-align: center;
     border-radius: 10px;
     position: relative;
-}
-@property --angle{
-    syntax: "<angle>";
-    initial-value: 0deg;
-    inherits: false;
 }
 .card::after, .card::before{
     content: '';
