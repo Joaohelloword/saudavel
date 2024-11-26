@@ -86,7 +86,7 @@ ul li{
            margin-right: 1px;
 }
 .verde{
-    height: 270vh; 
+    height: 240vh; 
     width: 100%;
 }
 .interface h1{
@@ -114,12 +114,11 @@ p{
     margin-rigth: 2px;
 .verde2 h2{
     margin-left: 3px;
-    font-size:20px;
+    font-size: 18px;
     margin-right: 1px;
 }
     .verde2{
         width: 100%;
-        heigth: 220vh;
-        margin-right: 1px;
+        heigth: 250vh;
     }
 }
