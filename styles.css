@@ -108,6 +108,11 @@ p{
 .interface img{
         width: 100%;
 }
+    .interface h2{
+        font-size:23px;
+        margin-left:5px;
+        margin-rigth:3px;
+    }
 .interface h2{
     font-size:20px;
     margin-left: 2px;
