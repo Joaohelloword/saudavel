@@ -82,6 +82,7 @@ ul li{
 }
 @media(max-width: 1000px){
 ul li{
+        font-size:18px;
            margin-left: 5px;
            margin-right: 2px;
 }
