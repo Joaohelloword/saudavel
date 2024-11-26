@@ -96,9 +96,9 @@ ul li{
             margin-right: 1px;
 }
 p{
-    font-size: 23px;
+    font-size: 14px;
     font-weight: 700;
-        margin-left: 2px;
+        margin-left: 3px;
         margin-right: 1px;
 }
 .verde h1{
@@ -110,12 +110,12 @@ p{
         width: 100%;
 }
 .interface h2{
-    font-size:30px;
+    font-size:22px;
     margin-left: 2px;
 }
 .verde2 h2{
-    margin-left: 2px;
-    font-size:30px;
+    margin-left: 3px;
+    font-size:20px;
     margin-right: 1px;
 }
     .verde2{
