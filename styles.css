@@ -80,6 +80,9 @@ ul li{
     margin-left: 160px;
 }
 @media(max-width: 1000px){
+    .tetxo{
+        margin-top: 100px;
+    }
 ul li{
             font-size:21px;
            margin-left: 10px;
