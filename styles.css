@@ -82,12 +82,12 @@ ul li{
 }
 @media(max-width: 1000px){
 ul li{
-            font-size:13px;
+            font-size:20px;
            margin-left: 5px;
            margin-right: 1px;
 }
 .verde{
-   height: 270vh; 
+    height: 270vh; 
     width: 100%;
 }
 .interface h1{
@@ -96,7 +96,7 @@ ul li{
             margin-right: 1px;
 }
 p{
-    font-size: 12px;
+    font-size: 18px;
     font-weight: 700;
         margin-left: 3px;
         margin-right: 1px;
@@ -110,9 +110,9 @@ p{
         width: 100%;
 }
 .interface h2{
-    font-size:22px;
+    font-size:20px;
     margin-left: 2px;
-}
+    margin-rigth: 2px;
 .verde2 h2{
     margin-left: 3px;
     font-size:20px;
@@ -120,7 +120,7 @@ p{
 }
     .verde2{
         width: 100%;
-        heigth: 330vh;
+        heigth: 220vh;
         margin-right: 1px;
     }
 }
