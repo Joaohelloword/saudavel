@@ -82,9 +82,9 @@ ul li{
 }
 @media(max-width: 1000px){
 ul li{
-        font-size:18px;
+        font-size:13px;
            margin-left: 5px;
-           margin-right: 2px;
+           margin-right: 1px;
 }
 .verde{
    height: 450vh; 
@@ -93,18 +93,18 @@ ul li{
 .interface h1{
             font-size:34px;
             margin-left: 5px;
-            margin-right: 2px;
+            margin-right: 1px;
 }
 p{
     font-size: 23px;
     font-weight: 700;
         margin-left: 2px;
-        margin-right: 2px;
+        margin-right: 1px;
 }
 .verde h1{
         font-size: 34px;
         margin-left: 5px;
-        margin-right: 2px;
+        margin-right: 1px;
 }
 .interface img{
         width: 100%;
@@ -116,11 +116,11 @@ p{
 .verde2 h2{
     margin-left: 2px;
     font-size:30px;
-    margin-right: 2px;
+    margin-right: 1px;
 }
     .verde2{
         width: 100%;
         heigth: 400vh;
-        margin-right: 2px;
+        margin-right: 1px;
     }
 }
