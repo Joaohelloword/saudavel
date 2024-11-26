@@ -114,10 +114,11 @@ p{
         margin-rigth:3px;
     }
 .interface h2{
-    font-size:24px;
+    font-size:20px;
     margin-left: 5px;
     margin-rigth: 0px;
     text-align: center;
+    font-weight: 300;
 .verde2 h2{
     margin-left: 3px;
     font-size: 22x;
