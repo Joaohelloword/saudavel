@@ -4,7 +4,6 @@
 }
 body{
     background-color: #243642;
-    height: 450vh;
 }
 .interface{
     margin-bottom: 150px;
@@ -35,7 +34,7 @@ h2, p{
     border-radius: 12px;
 }
 .verde{
-    height: 180vh;
+    height: 250vh;
     background-color: #387478;
 }
 .texto h2{
