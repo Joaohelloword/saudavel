@@ -81,6 +81,10 @@ ul li{
     margin-left: 160px;
 }
 @media(max-width: 1000px){
+    body{
+        display: flex;
+        flex-direction: collum;
+    }
 ul li{
            margin-left: 5px;
            margin-right: 2px;
@@ -90,17 +94,18 @@ ul li{
     width: 100%;
 }
 .interface h1{
+            font-size:34px;
             margin-left: 5px;
             margin-right: 2px;
 }
-h2, p{
-    font-size: 15px;
+p{
+    font-size: 23px;
     font-weight: 700;
         margin-left: 2px;
         margin-right: 2px;
 }
 .verde h1{
-        font-size: 15px;
+        font-size: 34px;
         margin-left: 5px;
         margin-right: 2px;
 }
@@ -108,13 +113,17 @@ h2, p{
         width: 100%;
 }
 .interface h2{
+    font-size:30px;
     margin-left: 2px;
 }
 .verde2 h2{
     margin-left: 2px;
+    font-size:30px;
+    margin-right: 2px;
 }
     .verde2{
         width: 100%;
         heigth: 400vh;
+        margin-right: 2px;
     }
 }
