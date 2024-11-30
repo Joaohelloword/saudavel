@@ -85,6 +85,7 @@ ul li{
 }
 .card h1, p{
     color: #ffffff;
+    margin-left: 40%;
 }
 @property --angle{
     syntax: "<angle>";
