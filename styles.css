@@ -94,6 +94,7 @@ ul li{
 }
 .card{
     background-color: rgb(49, 44, 44);
+    border-radius: 10px;
 }
 
 @media(max-width: 1000px){
