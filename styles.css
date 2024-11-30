@@ -99,7 +99,7 @@ ul li{
     text-align: center;
     border-radius: 10px;
     position: relative;
-    backgroun-color: black;
+    backgroun-color: rgb(43, 41, 41);
 }
 .card::after, .card::before{
     content: '';
